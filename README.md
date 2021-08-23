@@ -6,6 +6,6 @@
 - 📫 How to reach me 
   - Tel: +255 (0) 759809050
   - Email: [farajael.tumaiyo@outlook.com](mailto:farajael.tumaiyo@outlook.com)
-  - Twitter: [@leaj_araf](twitter.com/leaj_araf)
+  - Twitter: [@leaj_araf](https://www.twitter.com/leaj_araf)
 
 
