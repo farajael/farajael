@@ -3,7 +3,7 @@
 - ✍🏾 Programming Languages: JS, PHP & PYTHON
 - 👨‍💻 Technologies: Containers, Git, Cloud Storages, the likes 😀
 - 🌱 I’m currently learning ML with FastAPI
-- 🤝 Open to the collaboration of projects that bring about solutions
+- 🤝 Open to the collaboration of projects that bring about innovative solutions
 
 - 📫 How to reach me 
   - Email: [farajael.tumaiyo@outlook.com](mailto:farajael.tumaiyo@outlook.com)
