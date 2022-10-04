@@ -2,12 +2,12 @@ Hi 👋 My name is @farajael
 ==========================
 Software developer
 ------------------
-I'm a software developer with 3+ years of experience, journeying towards full-stack web development with a niche in IoT, ML, and AI.
+I'm a software enthusiast with a passion for innovation.
 * 🌍  I'm based in Dar es Salaam
 * 🖥️  See my portfolio at [farajael.dev](http://comingsoon.com)
 * ✉️  You can contact me at [self@farajael.dev](mailto:self@farajael.dev)
 * 🚀  I'm currently working on [My Portifolio](http://comingsoon.com)
-* 🧠  I'm learning ML with FastAPI
+* 🧠  I'm learning to craft relevant web solutions with IoT, Data Science, and AI
 * 🤝  I'm open to collaborating on projects that bring about innovative solutions
 * ⚡  I like learning and new experiences.
 
